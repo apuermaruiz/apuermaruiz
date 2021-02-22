@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-#### Just a newbie engineer learning about data science and machine learning.
+#### Just a newbie engineer learning about data science and machine learning :computer: 
 
 You can find me here:
 
-💼 [LinkedIn](linkedin.com/in/anapuermaruiz)
+:pencil: [Blog](apuerma.github.io)
 
-🐦 [Twitter](twitter.com/apuermaruiz)
+:briefcase: [LinkedIn](linkedin.com/in/anapuermaruiz)
+
+:bird: [Twitter](twitter.com/apuermaruiz)
 
 
 <!--
