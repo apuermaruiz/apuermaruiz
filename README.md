@@ -4,7 +4,7 @@
 
 You can find me here:
 
-:pencil: [Blog](apuerma.github.io)
+:pencil: [Blog](https://apuerma.github.io/)
 
 :briefcase: [LinkedIn](linkedin.com/in/anapuermaruiz)
 
