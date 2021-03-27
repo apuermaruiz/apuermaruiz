@@ -1,8 +1,10 @@
-## Hi there 👋
+[header-anapuerma](header-anapuerma.jpeg)
 
-#### :woman_technologist: Just a newbie engineer learning about data science and machine learning :computer: 
+## Hi there, I'm Ana :wave:
 
-### :hammer_and_wrench: Technologies  
+### :woman_technologist: Just a newbie engineer learning about data science and machine learning :computer: 
+
+#### :hammer_and_wrench: Technologies  
 
 ![GitHub](https://img.shields.io/badge/-GitHub-616161?style=flat&logo=github&logoColor=ffffff)
 ![Notion](https://img.shields.io/badge/-Notion-616161?style=flat&logo=notion&logoColor=ffffff)
@@ -26,8 +28,9 @@
 ![Java](https://img.shields.io/badge/-Java-616161?style=flat&logo=Java&logoColor=ffffff)
 ![Javascript](https://img.shields.io/badge/-JavaScript-616161?style=flat&logo=Javascript&logoColor=ffffff)
 
+---
 
-You can find me here:
+#### You can find me here:
 
 [![Blog](https://img.shields.io/badge/-Blog:_apuerma-FFFFFF?style=flat)](https://apuerma.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFFFFF?style=flat&logo=linkedin&logoColor=616161)](linkedin.com/in/anapuermaruiz)
