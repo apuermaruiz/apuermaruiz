@@ -1,4 +1,4 @@
-[header-anapuerma](header-anapuerma.jpeg)
+![header-anapuerma](header-anapuerma.jpeg)
 
 ## Hi there, I'm Ana :wave:
 
