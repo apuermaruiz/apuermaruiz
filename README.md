@@ -32,7 +32,7 @@
 
 #### You can find me here:
 
-[![Blog](https://img.shields.io/badge/-Blog:_apuerma-E0E0E0?style=flat)](https://apuerma.github.io/)
+[![Blog](https://img.shields.io/badge/-Blog:_apuerma-E0E0E0?style=flat)](https://apuermaruiz.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-E0E0E0?style=flat&logo=linkedin&logoColor=616161)](linkedin.com/in/anapuermaruiz)
 [![Twitter](https://img.shields.io/badge/-Twitter-E0E0E0?style=flat&logo=twitter&logoColor=616161)](twitter.com/apuermaruiz)
 
