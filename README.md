@@ -31,7 +31,7 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-088FC6?style=flat&logo=latex&logoColor=ffffff)
 
 ![PyCharm](https://img.shields.io/badge/-Pycharm-088FC6?style=flat&logo=pycharm&logoColor=ffffff)
-![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-088FC6?style=flat&logo=jupyter&logoColor=ffffff)
+![Jupyter](https://img.shields.io/badge/-JupyterNotebook-088FC6?style=flat&logo=jupyter&logoColor=ffffff)
 ![Airflow](https://img.shields.io/badge/-Airflow-088FC6?style=flat&logo=apacheairflow&logoColor=ffffff)
 ![OpenShift](https://img.shields.io/badge/-OpenShift-088FC6?style=flat&logo=redhatopenshift&logoColor=ffffff)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-088FC6?style=flat&logo=visualstudio&logoColor=ffffff)
