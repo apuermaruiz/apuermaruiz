@@ -36,7 +36,6 @@
 ![OpenShift](https://img.shields.io/badge/-OpenShift-088FC6?style=flat&logo=redhatopenshift&logoColor=ffffff)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-088FC6?style=flat&logo=visualstudio&logoColor=ffffff)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-088FC6?style=flat&logo=androidstudio&logoColor=ffffff)
-![WordPress](https://img.shields.io/badge/-WordPress-088FC6?style=flat&logo=wordpress&logoColor=ffffff)
 ![Tableau](https://img.shields.io/badge/-Tableau-088FC6?style=flat&logo=tableau&logoColor=ffffff)
 ![QGIS](https://img.shields.io/badge/-QGIS-088FC6?style=flat&logo=qgis&logoColor=ffffff)
 
@@ -46,6 +45,7 @@
 ![Miro](https://img.shields.io/badge/-Miro-088FC6?style=flat&logo=miro&logoColor=ffffff)
 ![Jira](https://img.shields.io/badge/-Jira-088FC6?style=flat&logo=k¡jira&logoColor=ffffff)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-088FC6?style=flat&logo=inkscape&logoColor=ffffff)
+![WordPress](https://img.shields.io/badge/-WordPress-088FC6?style=flat&logo=wordpress&logoColor=ffffff)
 
 
 ---
